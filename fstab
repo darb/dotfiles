@@ -1,0 +1,5 @@
+#nfs mounts for LAN clients
+192.168.0.130:/mnt/mythtv	/mnt/mythtv	nfs	defaults	0	0
+192.168.0.130:/mnt/2tb2		/mnt/2tb2	nfs	defaults	0	0
+192.168.0.130:/mnt/2tb3		/mnt/2tb3	nfs	defaults	0	0
+192.168.0.130:/mnt/2tb4		/mnt/2tb4	nfs	defaults	0	0
